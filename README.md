@@ -1,6 +1,6 @@
 # Shop in node.js &middot; [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](https://github.com/Wawrzynn/shop-node/blob/main/LICENSE)
 
-A shop created using mainly node.js and express.js with ejs as view. Shop has client and admin side.
+A shop created using mainly node.js and express.js with ejs as view. Shop has client and admin side. Project was created during [Node.js Course](https://www.udemy.com/course/nodejs-the-complete-guide/?couponCode=ST12MT030524).
 
 ## Installing / Getting started
 
